@@ -1,0 +1,2 @@
+# Figma binaries are stored in Git LFS
+*.fig filter=lfs diff=lfs merge=lfs -text
